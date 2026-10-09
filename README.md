@@ -1,5 +1,5 @@
-# PCB-Keychain
-This is my first keychain of Autobot's logo shaped for the https://solder.hackclub.com
+# PCB-Badge
+This is my first badge with PCB of an Autobot's logo shaped for the https://solder.hackclub.com
 
 ## Design
 
